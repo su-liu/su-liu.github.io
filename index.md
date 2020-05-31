@@ -1,4 +1,4 @@
-# LIU, Su _(BEng, MEng, PhD)_
+# LIU, Su _(BEng, MEng)_
       
 <table border="0">
   <tr>
