@@ -1,12 +1,12 @@
-# LI, CHUN SHENG _(BEng, MA, PhD)_
+# LIU, Su _(BEng, MEng, PhD)_
       
 <table border="0">
   <tr>
-      <p><b>Assistant Professor</b></p>
-      <p><b>Department of Decision Sciences</b></p>
-      <p><b>School of Business</b></p>
-      <p><b>Macau University of Science and Technology</b></p>
-      <p><b>Email: csli AT must DOT edu DOT mo</b></p>
+      <p><b>PhD Candidate</b></p>
+      <p><b>Research Centre for Smart Wearable Technology</b></p>
+      <p><b>Institute of Textiles and Clothing</b></p>
+      <p><b>The Hong Kong Polytechnic University</b></p>
+      <p><b>Email: suliu.liu AT connect.polyu.hk</b></p>
   </tr>
 </table>
 
